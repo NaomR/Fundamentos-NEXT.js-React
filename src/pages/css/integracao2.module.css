@@ -1,0 +1,16 @@
+#integra2 {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.azul {
+    color: blue;
+}
+
+.roxo {
+    color: purple;
+}
